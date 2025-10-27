@@ -48,6 +48,7 @@ plt.show()
 <img width="748" height="546" alt="image" src="https://github.com/user-attachments/assets/c0486868-43c5-4511-8086-cadd2eeabe8d" />
 
 
+<img width="747" height="566" alt="image" src="https://github.com/user-attachments/assets/72275385-93db-4765-a171-66b3b8d0e3db" />
 
 
 
@@ -138,6 +139,7 @@ plt.hist(x, bins = 10, color='blue', alpha=0.5)
 plt.show()
 ```
 
+<img width="701" height="537" alt="image" src="https://github.com/user-attachments/assets/ea0597ff-055e-4296-ae31-716dea8830f4" />
 
 
 # Box Plot:
@@ -147,6 +149,7 @@ data=np.random.normal(loc=0, scale=1, size=100)
 data
 ```
 
+<img width="727" height="437" alt="image" src="https://github.com/user-attachments/assets/dcf0a740-0736-402e-a72e-26edf2084361" />
 
 
 
@@ -158,6 +161,7 @@ ax.set_ylabel('Values')
 ax.set_title('Box Plot')
 ```
 
+<img width="735" height="617" alt="image" src="https://github.com/user-attachments/assets/b232bf7b-9574-4881-b3d9-b9281bae72d9" />
 
 
 # Result:
